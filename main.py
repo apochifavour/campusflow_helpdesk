@@ -1,3 +1,4 @@
+# CampusFlow ticket assignment feature
 """CampusFlow command-line helpdesk application."""
 
 import json
